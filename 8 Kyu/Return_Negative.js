@@ -5,4 +5,3 @@
 function makeNegative1(num) {
     return num <= 0 ? num : -num
 }
-console.log(makeNegative1(1))
