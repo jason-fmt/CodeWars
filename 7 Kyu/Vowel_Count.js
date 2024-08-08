@@ -13,4 +13,4 @@ function getCount(str) {
             vowelCount+= 1
     }
     return vowelCount
-  }
+}
